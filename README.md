@@ -1,2 +1,2 @@
-# flutter-tdd-clean-arch
-A dedicated laboratory for mastering Test-Driven Development (TDD) and Uncle Bob's Clean Architecture in Flutter.
+# Flutter TDD & Clean Architecture
+Practical implementation of Clean Architecture layers (Domain, Data, Presentation) following TDD principles.
